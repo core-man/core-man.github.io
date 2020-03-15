@@ -1,3 +1,3 @@
-- [core-man博客](https://core-man.github.io)
+- [core-man博客](https://core-man.github.io/blog)
 - [Project A](https://www.ntu.edu.sg/home/jiayuanyao)
 - [Project B](https://www.ntu.edu.sg/home/jiayuanyao)

@@ -1,1 +1,8 @@
+title: core-man的项目列表
+description: 
+google_analytics: 
+show_downloads: true
 theme: jekyll-theme-modernist
+
+gems:
+  - jekyll-mentions

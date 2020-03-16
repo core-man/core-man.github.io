@@ -1,2 +1,3 @@
 - [core-man博客](https://core-man.github.io/blog)
 - [core-man个人主页](https://www.ntu.edu.sg/home/jiayuanyao)
+- [core-man's links](https://core-man.github.io/link)

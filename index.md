@@ -1,3 +1,1 @@
 - [core-man's academic homepage](https://core-man.github.io/academic-homepage/)
-- [core-man blog](https://core-man.github.io/blog)
-- [core-man's links](https://core-man.github.io/link)

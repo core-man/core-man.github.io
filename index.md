@@ -1,1 +1,1 @@
-- [core-man's academic homepage](https://core-man.github.io/academic-homepage/)
+- [core-man's academic homepage](https://core-man.github.io/academic/)
